@@ -32,6 +32,6 @@ This repo contains solutions of problems introduced to me at subject *Algorithms
 
 
 ```bash
-g++ -std=c++17 nazwa.cpp -o nazwa
-./nazwa
+g++ -std=c++17 name.cpp -o name
+./name
 ```
