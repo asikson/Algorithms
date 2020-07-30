@@ -14,9 +14,9 @@ struct plate
     int r;
 };
 
-bool Visited[10001]; // odwiedzane wierzchołki
-vector<plate> Path; // użyte płytki
-vector<plate> Edges[10001]; // lista krawędzi
+bool Visited[10001]; // visited vertices
+vector<plate> Path; // used plates
+vector<plate> Edges[10001]; // list of edges
 
 void DFS(int vertice)
 {
