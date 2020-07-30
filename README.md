@@ -1,6 +1,6 @@
 # C++ algorithms
 
-This repo contains solutions of problems introduced to me at subject *Algorithms and Data Structures* during my studies. Each task has a PDF file in which the problem is described (in Polish) and a .cpp file with the solution.
+This repo contains solutions of problems introduced to me at subject *Algorithms and Data Structures* during my studies. Each task has a PDF file in which the problem is described (in Polish) and a .cpp file with the solution. Description of input and output can be found in the PDF files.
 
 
 ## Chodnik
